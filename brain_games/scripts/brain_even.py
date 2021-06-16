@@ -1,6 +1,5 @@
 #!/usr/bin/env python
 
-from random import randint
 
 import prompt
 
@@ -18,7 +17,10 @@ def main():
         answer = prompt.string(prompt="Your answer: ")
         right_answer = get_right_answer(question_num)
         if answer != right_answer:
-            print(f"'{answer}' is wrong answer ;(. Correct answer was '{right_answer}'")
+            print(
+                f"'{answer}' is wrong answer ;(. \
+                Correct answer was '{right_answer}'"
+            )
             print(f"Let's try again, {username}!")
             exit()
         print("Correct!")

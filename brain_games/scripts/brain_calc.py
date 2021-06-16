@@ -1,6 +1,5 @@
 #!/usr/bin/env python
 
-from random import choice, randint
 
 import prompt
 
@@ -16,9 +15,14 @@ def main():
         question_num1, question_num2, question_oper = generate_question()
         print(f"Question: {question_num1} {question_oper} {question_num2}")
         answer = prompt.string(prompt="Your answer: ")
-        right_answer = get_right_answer(question_num1, question_num2, question_oper)
+        right_answer = get_right_answer(
+            question_num1, question_num2, question_oper
+        )
         if answer != right_answer:
-            print(f"'{answer}' is wrong answer ;(. Correct answer was '{right_answer}'")
+            print(
+                f"'{answer}' is wrong answer ;(. \
+                    Correct answer was '{right_answer}'"
+            )
             print(f"Let's try again, {username}!")
             exit()
         print("Correct!")
