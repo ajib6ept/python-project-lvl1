@@ -8,7 +8,7 @@ MAX_RANDOM_NUMBER = 100
 
 
 def is_prime_number(number):
-    for num in range(2, int(sqrt(number))):
+    for num in range(2, int(sqrt(number)) + 1):
         if number % num == 0:
             return False
     return True
