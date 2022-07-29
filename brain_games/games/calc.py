@@ -2,12 +2,14 @@ import random
 
 DESCRIPTION = "What is the result of the expression?"
 
-
 FUNC = {
     "+": lambda x, y: x + y,
     "-": lambda x, y: x - y,
     "*": lambda x, y: x * y,
 }
+
+MIN_RANDOM_NUMBER = 1
+MAX_RANDOM_NUMBER = 10
 
 
 def calculate_answer(num1, num2, operation):
@@ -20,8 +22,8 @@ def is_even(number):
 
 
 def generate_question_and_answer():
-    num1 = random.randint(1, 10)
-    num2 = random.randint(1, 10)
+    num1 = random.randint(MIN_RANDOM_NUMBER, MAX_RANDOM_NUMBER)
+    num2 = random.randint(MIN_RANDOM_NUMBER, MAX_RANDOM_NUMBER)
     operation = random.choice(["+", "-", "*"])
     question = f"{num1} {operation} {num2}"
     answer = calculate_answer(num1, num2, operation)

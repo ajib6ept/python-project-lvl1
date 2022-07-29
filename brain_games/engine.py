@@ -4,8 +4,7 @@ import prompt
 ROUNDS_NUMBER = 3
 
 
-def start_game(game):
-
+def execute(game):
     user_name = prompt.string("May I have your name? ")
     print("Hello, %s!" % user_name)
     print(game.DESCRIPTION)
