@@ -24,31 +24,31 @@ Use the dependency management [poetry](https://python-poetry.org/docs/#installat
 * ```make build```
 * ```make package-install```
 
-[![asciicast](https://asciinema.org/a/faExSCO5fPXj9tMD775NUj43e.svg)](https://asciinema.org/a/faExSCO5fPXj9tMD775NUj43e)
+[![asciicast](https://asciinema.org/a/hP4r81HUK0OOs9FvhCmpMJx5n.svg)](https://asciinema.org/a/hP4r81HUK0OOs9FvhCmpMJx5n)
 
 ***
 #### Usage
 ##### Brain Even
 ```brain-even```
 
-[![asciicast](https://asciinema.org/a/iVRitqG3CCeLcjfbif6DBmcDj.svg)](https://asciinema.org/a/iVRitqG3CCeLcjfbif6DBmcDj)
+[![asciicast](https://asciinema.org/a/dcOQ3cOoI9ZGzmrMquguD0yOE.svg)](https://asciinema.org/a/dcOQ3cOoI9ZGzmrMquguD0yOE)
 
 ##### Brain Calculator
 ```brain-calc```
 
-[![asciicast](https://asciinema.org/a/iT3RREU9riK9kvbxboUpCXbWV.svg)](https://asciinema.org/a/iT3RREU9riK9kvbxboUpCXbWV)
+[![asciicast](https://asciinema.org/a/ghpnDGAEQfkMFRpISMpYjyyTA.svg)](https://asciinema.org/a/ghpnDGAEQfkMFRpISMpYjyyTA)
 
 ##### Brain GCD (Greatest Common Divisor)
 ```make brain-gcd```
 
-[![asciicast](https://asciinema.org/a/po0Umox8R4TiitcGwmB51uhb9.svg)](https://asciinema.org/a/po0Umox8R4TiitcGwmB51uhb9)
+[![asciicast](https://asciinema.org/a/ZMcYlkOzL94i61HKub4e9w6CM.svg)](https://asciinema.org/a/ZMcYlkOzL94i61HKub4e9w6CM)
 
 ##### Brain Arithmetic Progression
 ```brain-progression```
 
-[![asciicast](https://asciinema.org/a/ZA6u8Qt72It68sxwYQtxmVOaS.svg)](https://asciinema.org/a/ZA6u8Qt72It68sxwYQtxmVOaS)
+[![asciicast](https://asciinema.org/a/ZT5VpmTZffbcJceK6XdaslDfi.svg)](https://asciinema.org/a/ZT5VpmTZffbcJceK6XdaslDfi)
 
 ##### Brain Prime Number
 ```brain-prime```
 
-[![asciicast](https://asciinema.org/a/0ansWWWMTwJN8wCjxfDA5aSS8.svg)](https://asciinema.org/a/0ansWWWMTwJN8wCjxfDA5aSS8)
+[![asciicast](https://asciinema.org/a/qLkqroPQzhSXZ2DYQ22Pyisz1.svg)](https://asciinema.org/a/qLkqroPQzhSXZ2DYQ22Pyisz1)
