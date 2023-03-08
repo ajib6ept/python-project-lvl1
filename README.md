@@ -2,7 +2,8 @@
 ***
 
 ### Hexlet tests and linter status:
-[![Actions Status](https://github.com/ajib6ept/python-project-lvl1/workflows/hexlet-check/badge.svg)](https://github.com/ajib6ept/python-project-lvl1/actions) [![Actions Status](https://github.com/ajib6ept/python-project-lvl1/workflows/hexlet-code/badge.svg)](https://github.com/ajib6ept/python-project-lvl1/actions) [![Maintainability](https://api.codeclimate.com/v1/badges/60eedbcd2a527f4510f9/maintainability)](https://codeclimate.com/github/ajib6ept/python-project-lvl1/maintainability)
+[![Actions Status](https://github.com/ajib6ept/python-project-lvl1/workflows/hexlet-check/badge.svg)](https://github.com/ajib6ept/python-project-lvl1/actions) [![Actions Status](https://github.com/ajib6ept/python-project-lvl1/workflows/hexlet-code/badge.svg)](https://github.com/ajib6ept/python-project-lvl1/actions) [![Maintainability](https://api.codeclimate.com/v1/badges/60eedbcd2a527f4510f9/maintainability)](https://codeclimate.com/github/ajib6ept/python-project-lvl1/maintainability) [![pre-commit.ci status](https://results.pre-commit.ci/badge/github/ajib6ept/python-project-lvl1/main.svg)](https://results.pre-commit.ci/latest/github/ajib6ept/python-project-lvl1/main)
+
 
 ***
 
